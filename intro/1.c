@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main(){
-    int num1=100;
+    int num1;
     printf("Guess A Number : \n");
-    printf("Size of int : %lu\n",sizeof(int));
+    scanf("%d", &num1);
     printf("The number is : %d\n",num1);
+    
+    return 0;
 }
