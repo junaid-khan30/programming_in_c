@@ -2,7 +2,7 @@
 int main(){
     int  num;
    printf("Guess your Number : \n");
-     scanf("%d",&num);//its a function to accept inputs
+     scanf("%d",&num);
     printf("Your Guessed Number is %d\n",num);
     return 0;
 }
