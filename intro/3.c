@@ -20,6 +20,8 @@ for software folks , its very imp to know the entry point and end point
  
 printf function is inportet from stdio.h
 
+its mandatory to name main() as main() only, for eg i name it as junaid, 
+what will happen it won't work 
 
 
 
