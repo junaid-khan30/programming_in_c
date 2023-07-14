@@ -9,9 +9,7 @@ int main(){
 
 /* 
 Header File : 
-main(): Every C Program has a primary function that must be named as main()
-The main() function acts as a starting point for the program execution 
-you can have n number of function , but the starting func is main()
+
 
 think of it as whenever we have a book , the context of that page is first one 
 
